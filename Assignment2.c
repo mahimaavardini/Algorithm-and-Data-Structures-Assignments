@@ -22,6 +22,8 @@ int main() {
     int num;
     int count = 0;
 
+    //hi
+    
     printf("Please enter the name of the text file you wish to read from: ");   
     scanf("%s", filename);
 
