@@ -13,6 +13,8 @@
 #include "List.h"
 
 int main() {
+
+    hello
     int n;
     char filename[50] = "test_dat.txt";   //name of the file; default is provided file
     clock_t start;
